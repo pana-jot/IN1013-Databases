@@ -1,0 +1,7 @@
+Task 2
+A note id may not be needed?
+
+If you think of an entity as an object (like in OOP)
+I do not need to have the size of that object as an attribute **inside** that specific entity.
+If I want to find how many INSTANCES of that entity there are I can simply run an SQL command (frankly: COUNT * WHERE database = "INSTANCE")
+
